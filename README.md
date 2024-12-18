@@ -169,3 +169,58 @@ Termo técnico: Terraform, json.
 | 99.95% | 5 munutos | 21,6 minutos | 4,38 horas |
 | 99.99% | 1,01 minutos | 4,32 minutos | 52,56 minutos |
 | 99.999% | 6 segundos | 25,9 segundos | 5,26 minutos |
+
+---
+
+### Tipos de Serviços de Nuvem:
+
+- IaaS (Infraestrutura como serviço)
+- PaaS (Plataforma como serviço)
+- SaaS (Software como Serviço)
+- Descrever o modelo de responsabilidade compartilhada.
+- Identificar os casos de uso apropriados para cada serviço de nuvem (IaaS, PaaS, SaaS).
+
+### IaaS:
+
+Alguns recursos relacionados ao serviço
+
+- Servidores e Armazenamento
+- Firewalls/Segurança de rede
+- Planta física/ Edifício do datacenter
+
+Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+
+### PaaS:
+
+- Servidores e Armazenamento
+- Firewalls/Segurança de rede
+- Planta física/ Edifício do datacenter
+- Sistemas Operacionais
+- Ferramentas para desenvolvedores, análise de negócios de gerenciamento de database
+
+Ex: Um banco de dados SQL
+
+Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+
+### SaaS:
+
+- Servidores e Armazenamento
+- Firewalls/Segurança de rede
+- Planta física/ Edifício do datacenter
+- Sistemas Operacionais
+- Ferramentas para desenvolvedores, análise de negócios de gerenciamento de database
+- Aplicativos / Apps hospedados
+
+Ex: Teams, Ofice365 (Licença fala o seu níveis de acesso)
+
+Os usuários se conectam e usam aplicativos com base em nuvem pela internet: por exemplo, Microsoft Office 365, Email e Calendários.
+
+### Modelo de responsabilidade compartilhada:
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b87c44db-74bc-4c4d-93fe-819a05e6bf77/3002ee40-f53a-4345-a157-fa0bb281bd0f/image.png)
+
+### Links:
+
+[Tipos de serviço de nuvem](https://hermes.dio.me/files/assets/393a0f42-245f-4f77-af9f-99fdc82c11c0.pptx)
+
+[Tipos de serviço de nuvem - Revisão](https://hermes.dio.me/files/assets/a0cc51a1-7b23-4c49-893a-0f19705cde54.pptx)
